@@ -33,7 +33,7 @@ This repository presents results of initial work to detect Covid-19 from X-ray i
 
 ## Sanity Check
 
-![model](./data/figs/sample_results.jpg)
+![model](./data/figs/model_results.jpg)
 
 ## Project Member
 [Dr. Nagender Aneja, http://ResearchID.co/naneja ](http://ResearchID.co/naneja)

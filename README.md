@@ -42,7 +42,7 @@ This repository presents results of initial work to detect Covid-19 from X-ray i
 
 
 ## Project Member
-[Dr. Nagender Aneja, http://ResearchID.co/naneja ](http://ResearchID.co/naneja)
+[Nagender Aneja, http://ResearchID.co/naneja ](http://ResearchID.co/naneja)
 
 ## Feedback
 Please submit your feedback to (nanejaATgmail).

@@ -28,9 +28,10 @@ This repository presents results of initial work to detect Covid-19 from X-ray i
 
 
 ## Results
+>Results may be biased since the dataset of covid-19 patients has been collected from different research papers and I am not sure if there are multiple images of different people. In case there are multiple images, it means there may be overlap in training and testing dataset.
+
 ![model](./data/figs/conf_mat.jpg)
 
->Results may be biased since the dataset of covid-19 patients has been collected from different research papers and I am not sure if there are multiple images of different people. In case there are multiple images, it means there may be overlap in training and testing dataset.
 
 ## Sanity Check
 

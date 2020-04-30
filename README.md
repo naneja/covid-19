@@ -43,8 +43,9 @@ This repository presents results of initial work to detect Covid-19 from X-ray i
 ![model](./data/figs/roc_auc.jpg)
 
 
-## Project Member
-[Nagender Aneja, http://ResearchID.co/naneja ](http://ResearchID.co/naneja)
+## Project Members
+[Nagender Aneja, Universiti Brunei Darussalam, http://ResearchID.co/naneja ](http://ResearchID.co/naneja)
+[Fawaz Ghali, Liverpool John Moores University](https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-engineering-and-technology/department-of-computer-science/fawaz-ghali)
 
 ## Feedback
-Please submit your feedback to (nanejaATgmail).
+Please submit your feedback to (nanejaATgmail) and (fwzghlATgmail)
